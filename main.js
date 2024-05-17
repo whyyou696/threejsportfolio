@@ -33,7 +33,7 @@ let projects = [
   },
   {
     image: 'textures/p2.png',
-    url: 'https://myteachers.com.au/',
+    url: 'https://the-beauty-shop.vercel.app/login',
   },
   {
     image: 'textures/p3.png',
